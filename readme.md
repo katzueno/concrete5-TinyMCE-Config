@@ -4,7 +4,7 @@
 
 日本語の説明は後に
 
-This is the simple copy of concrete5.6.3.2 Office setting of TinyMCE.
+This is the simple copy of concrete5.6.3.3 Office setting of TinyMCE.
 
 When you want to customize the buttons of concrete5 TinyMCE editor, you need to create your own config text file.
 
